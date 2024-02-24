@@ -10,7 +10,7 @@ export const ProductCard = () => {
         <h2>Electronics</h2>
       </div>
       <div>
-        <h2>109.90</h2>
+        <h2>110.90</h2>
       </div>
       </div>
   );
